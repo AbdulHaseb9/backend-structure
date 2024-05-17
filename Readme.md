@@ -5,29 +5,29 @@ This is a basic backend project structure that can be commonly used across diffe
 ## Folder Structure
 
 backend-project/  
-├── src/
-│ ├── config/
-│ │ └── config.js
-│ ├── controllers/
-│ │ └── userController.js
-│ ├── models/
-│ │ └── userModel.js
-│ ├── routes/
-│ │ └── userRoutes.js
-│ ├── services/
-│ │ └── userService.js
-│ ├── utils/
-│ │ └── helpers.js
-│ ├── middlewares/
-│ │ └── authMiddleware.js
-│ ├── index.js
-│ └── app.js
-├── test/
-│ └── user.test.js
-├── .env
-├── .gitignore
-├── package.json
-└── README.md
+├── src/  
+│ ├── config/  
+│ │ └── config.js  
+│ ├── controllers/  
+│ │ └── userController.js   
+│ ├── models/   
+│ │ └── userModel.js  
+│ ├── routes/  
+│ │ └── userRoutes.js  
+│ ├── services/  
+│ │ └── userService.js  
+│ ├── utils/   
+│ │ └── helpers.js  
+│ ├── middlewares/  
+│ │ └── authMiddleware.js   
+│ ├── index.js   
+│ └── app.js   
+├── test/   
+│ └── user.test.js  
+├── .env  
+├── .gitignore  
+├── package.json  
+└── README.md   
 
 ## Folder Explanations
 
